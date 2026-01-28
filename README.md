@@ -1,2 +1,2 @@
 # maze-game-hokudai-hackathon
-PythonとProcessingで作成した迷路ゲーム
+北大内で優勝した、PythonとProcessingで作成した迷路ゲーム
